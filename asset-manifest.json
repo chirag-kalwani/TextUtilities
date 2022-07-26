@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chirag-kalwani/TextUtilities/static/css/main.e292930e.css",
+    "main.js": "/chirag-kalwani/TextUtilities/static/js/main.14507e96.js",
+    "static/js/787.d3befce1.chunk.js": "/chirag-kalwani/TextUtilities/static/js/787.d3befce1.chunk.js",
+    "index.html": "/chirag-kalwani/TextUtilities/index.html",
+    "main.e292930e.css.map": "/chirag-kalwani/TextUtilities/static/css/main.e292930e.css.map",
+    "main.14507e96.js.map": "/chirag-kalwani/TextUtilities/static/js/main.14507e96.js.map",
+    "787.d3befce1.chunk.js.map": "/chirag-kalwani/TextUtilities/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e292930e.css",
+    "static/js/main.14507e96.js"
+  ]
+}
